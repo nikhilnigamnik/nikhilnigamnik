@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">* 🪢 Connect me on <a href="https://www.w3schools.com">linktree</a></p>
+<p align="left">* 🪢 Connect me on <a href="https://www.linktr.ee/nikhilnigamnik">linktree</a></p>
 
 ###
 
