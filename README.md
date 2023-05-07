@@ -34,6 +34,10 @@
 
 ###
 
+<p align="left">* 🪢 Connect me on <a href="https://www.w3schools.com">linktree</a></p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
