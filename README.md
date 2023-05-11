@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hiii👋 I'm Nikhil Nigam</h1>
+<h1 align="center">Hi...👋 I'm Nikhil Nigam</h1>
 
 ###
 
