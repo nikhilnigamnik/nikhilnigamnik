@@ -1,47 +1,20 @@
+<h1 >Hi 👋, I'm Nikhil Nigam</h1>
+<h3 >I'm a Frontend Developer based in India. I build web applications and mobile application using modern technologies.</h3>
+<p >I love to write about web development, programming and technology. I'm currently working on a few projects and writing blog posts.</p>
+<p > 
+ <img src="https://komarev.com/ghpvc/?username=nikhilnigamnik&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilnigamnik" /> 
+</p>
 
+<br/>
 
-###
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+<h3 align="left">GitHub Stats:</h3>
+<div>
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilnigamnik\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilnigamnik&theme=midnight-purple)](https://git.io/streak-stats)
+
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilnigamnik.nikhilnigamnik&"  />
-</div>
-
-###
-
-<h1 align="center">Hi...👋 I'm Nikhil Nigam</h1>
-
-###
-
-<h3 align="center">I'm a Full Stack Web Developer</h3>
-
-###
-
-<p align="left">* 📚 I'm currently working on frontend development & Ui designing.</p>
-
-###
-
-<p align="left">* 🪢 Connect me on <a href="https://www.linktr.ee/nikhilnigamnik">linktree</a></p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhilnigamnik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilnigamnik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnigamnik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-###
